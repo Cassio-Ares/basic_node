@@ -1,0 +1,16 @@
+{
+  "name": "api_node_puro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
